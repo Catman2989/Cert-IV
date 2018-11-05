@@ -1,0 +1,40 @@
+{
+  "players": [
+    {
+      "id": "1",
+      "name": "jude",
+      "nukes": "3",
+      "icon": "fa-fighter-jet",
+      "color": "#00FF00"
+    },
+    {
+      "id": "9206",
+      "name": "matthew ",
+      "nukes": "3",
+      "color": "light gray",
+      "icon": "fa-cc-visa"
+    },
+    {
+      "id": "6333",
+      "name": "test",
+      "nukes": "3",
+      "color": "",
+      "icon": ""
+    },
+    {
+      "id": "1844",
+      "name": "test",
+      "nukes": "3",
+      "color": "test",
+      "icon": "fa-boobies"
+    }
+  ],
+  "tiles": [
+    {
+      "id": "1",
+      "X": "0",
+      "Y": "0",
+      "player": "-1"
+    }
+  ]
+}

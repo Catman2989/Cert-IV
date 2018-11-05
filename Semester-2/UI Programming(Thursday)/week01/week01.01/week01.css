@@ -1,0 +1,17 @@
+enter {
+	background-color: lightblue;
+	text-align: center;
+	width: 100%;
+}
+
+results{
+	background-color: green;
+	text-align: right;
+	width: 60%;
+}
+
+winners{
+	background-color: blue;
+	text-align: left;
+	width: 40%;
+}

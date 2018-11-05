@@ -1,0 +1,11 @@
+C:\Users\Matthew\source\repos\WeaponGame\WeaponGame\bin\Debug\netcoreapp2.1\WeaponGame.deps.json
+C:\Users\Matthew\source\repos\WeaponGame\WeaponGame\bin\Debug\netcoreapp2.1\WeaponGame.runtimeconfig.json
+C:\Users\Matthew\source\repos\WeaponGame\WeaponGame\bin\Debug\netcoreapp2.1\WeaponGame.runtimeconfig.dev.json
+C:\Users\Matthew\source\repos\WeaponGame\WeaponGame\bin\Debug\netcoreapp2.1\WeaponGame.dll
+C:\Users\Matthew\source\repos\WeaponGame\WeaponGame\bin\Debug\netcoreapp2.1\WeaponGame.pdb
+C:\Users\Matthew\source\repos\WeaponGame\WeaponGame\obj\Debug\netcoreapp2.1\WeaponGame.csprojAssemblyReference.cache
+C:\Users\Matthew\source\repos\WeaponGame\WeaponGame\obj\Debug\netcoreapp2.1\WeaponGame.csproj.CoreCompileInputs.cache
+C:\Users\Matthew\source\repos\WeaponGame\WeaponGame\obj\Debug\netcoreapp2.1\WeaponGame.AssemblyInfoInputs.cache
+C:\Users\Matthew\source\repos\WeaponGame\WeaponGame\obj\Debug\netcoreapp2.1\WeaponGame.AssemblyInfo.cs
+C:\Users\Matthew\source\repos\WeaponGame\WeaponGame\obj\Debug\netcoreapp2.1\WeaponGame.dll
+C:\Users\Matthew\source\repos\WeaponGame\WeaponGame\obj\Debug\netcoreapp2.1\WeaponGame.pdb

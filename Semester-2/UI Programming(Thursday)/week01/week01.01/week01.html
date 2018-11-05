@@ -1,0 +1,32 @@
+<html>
+  <head>
+    <link rel="stylesheet" type="text/css" href="week01.css">
+  </head>
+  <body>
+    <div class="enter">
+      Enter your guess:
+      <br>
+      <input id="mynumber" type="number" value="52" min=0 max=100>
+      <br>
+	  Enter your name:
+      <br>
+      <input id="myname" type="text" value="Matthew">
+      <br>
+      <button type="button" onclick="addplayer();">Add Player</button>
+      <br>
+      <button type="button" onclick="rolldice();">Click Me!</button>
+      <br>
+      <button type="button" onclick="clearwins();">Clear Wins</button>
+    </div>
+
+    <div id="winners">
+      Our Winners:
+    </div>
+
+    <div id="results">
+      These are your results:
+    </div>
+
+    <script src="week01.js"></script>
+  </body>
+</html>

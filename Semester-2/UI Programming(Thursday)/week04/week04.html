@@ -1,0 +1,38 @@
+<html>
+<head>
+	<title>challenge</title>
+	<link rel="stylesheet" type="text/css" href="week04.css">
+	<link href="https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
+</head>
+<body>
+<div id="message">Turn: Player 1</div>
+	
+
+	player 1: <input type="text" id="myText1" value="player 1">
+	<div id="player1" value="player 1 wins: "> </div> 
+	<div id="wins1" value="0"> </div> 
+	<br>
+	player 2: <input type="text" id="myText2" value="player 2">
+	<div id="player2" value="player 2 wins: "> </div>
+	<div id="wins2" value="0"> </div> 
+	<br>
+	<button type="button" onclick="myFunctionp1(), myFunctionp2(), generateGameBoard()">Start</button>
+	<button type="button" id="FightMe">Fight ME</button>
+	<input type="button" id="clsBtn" value="clear">
+	
+
+	<div id="players">player one's score</div>
+	<div id="AI">AI's score</div>
+	<div id="Rownum">Row: 0</div>
+	<div id="Colnum">Column: 0</div>
+
+
+	<table id="myBoard">
+</table>
+
+<input type="button" value="restart" onClick="history.go(0)">
+
+    <script src="jquery-3.3.1.js"></script>
+    <script src="week04.js"></script>
+</body>
+</html>

@@ -1,0 +1,12 @@
+body {
+    background-color: lightblue;
+}
+
+div {
+    background-color: blue;
+    color: red;
+    width: 100px;
+}
+td {
+    background-color: gray;
+}
